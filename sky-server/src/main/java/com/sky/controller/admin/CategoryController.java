@@ -1,4 +1,4 @@
-package com.sky.controller.admin;
+  package com.sky.controller.admin;
 
 import com.sky.dto.CategoryDTO;
 import com.sky.dto.CategoryPageQueryDTO;
@@ -45,7 +45,7 @@ public class CategoryController {
 		return Result.success();
 	}
 	
-	/**
+	/** 
 	 * 分类分页查询
 	 *
 	 * @param categoryPageQueryDTO
